@@ -1,0 +1,16 @@
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\bin\Debug\CCalc.exe.config
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\bin\Debug\CCalc.exe
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\bin\Debug\CCalc.pdb
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\obj\Debug\CCalc.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\obj\Debug\CCalc.MainForm.resources
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\obj\Debug\CCalc.csproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\obj\Debug\CCalc.exe
+C:\Users\Kamil\Documents\SharpDevelop Projects\CCalc\CCalc\obj\Debug\CCalc.pdb
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\bin\Debug\CCalc.exe.config
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\bin\Debug\CCalc.exe
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\bin\Debug\CCalc.pdb
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\obj\Debug\CCalc.csprojResolveAssemblyReference.cache
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\obj\Debug\CCalc.MainForm.resources
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\obj\Debug\CCalc.csproj.GenerateResource.Cache
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\obj\Debug\CCalc.exe
+C:\Users\P33\Desktop\C#App\CCalc\CCalc\obj\Debug\CCalc.pdb

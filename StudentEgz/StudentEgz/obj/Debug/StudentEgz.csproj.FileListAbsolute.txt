@@ -1,0 +1,7 @@
+C:\Users\P33\Documents\SharpDevelop Projects\StudentEgz\StudentEgz\bin\Debug\StudentEgz.exe
+C:\Users\P33\Documents\SharpDevelop Projects\StudentEgz\StudentEgz\bin\Debug\StudentEgz.pdb
+C:\Users\P33\Documents\SharpDevelop Projects\StudentEgz\StudentEgz\obj\Debug\StudentEgz.csprojResolveAssemblyReference.cache
+C:\Users\P33\Documents\SharpDevelop Projects\StudentEgz\StudentEgz\obj\Debug\StudentEgz.MainForm.resources
+C:\Users\P33\Documents\SharpDevelop Projects\StudentEgz\StudentEgz\obj\Debug\StudentEgz.csproj.GenerateResource.Cache
+C:\Users\P33\Documents\SharpDevelop Projects\StudentEgz\StudentEgz\obj\Debug\StudentEgz.exe
+C:\Users\P33\Documents\SharpDevelop Projects\StudentEgz\StudentEgz\obj\Debug\StudentEgz.pdb
